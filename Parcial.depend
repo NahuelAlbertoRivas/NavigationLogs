@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1701706919 source:c:\users\54113\[nahue] cursos\unlam\topicos de programacion\parcial\complementofns.c
+	"ComplementoFns.h"
+
+1701706900 c:\users\54113\[nahue] cursos\unlam\topicos de programacion\parcial\complementofns.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1700536928 source:c:\users\54113\[nahue] cursos\unlam\topicos de programacion\parcial\main.c
+	"ComplementoFns.h"
+
